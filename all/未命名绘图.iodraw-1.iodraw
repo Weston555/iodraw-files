@@ -7,7 +7,7 @@
         <mxCell id="jIVukjhN0ORAaDZMaz9k-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="jIVukjhN0ORAaDZMaz9k-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Data Preprocessing (feature extraction &amp;amp; normalization)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Data Preprocessing (feature extraction &amp;amp; normalization)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jIVukjhN0ORAaDZMaz9k-0" target="jIVukjhN0ORAaDZMaz9k-4">
@@ -16,8 +16,8 @@
         <mxCell id="jIVukjhN0ORAaDZMaz9k-0" value="LSTM Sequence Modeling (predict next-day return)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="160" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="240" width="290" height="40" as="geometry" />
+        <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="Trading Signal Generation (generate buy/sell signal)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="240" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
