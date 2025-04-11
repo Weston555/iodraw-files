@@ -12,8 +12,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Data Preprocessing (feature extraction &amp;amp; normalization)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jIVukjhN0ORAaDZMaz9k-0" value="Data Preprocessing (feature extraction &amp;amp; normalization)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="210" width="330" height="40" as="geometry" />
+        <mxCell id="jIVukjhN0ORAaDZMaz9k-0" value="LSTM Sequence Modeling (predict next-day return)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="160" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
