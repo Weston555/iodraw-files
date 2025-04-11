@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="Trading Signal Generation&lt;div&gt;(generate buy/sell signal)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="172.5" y="240" width="310" height="40" as="geometry" />
+          <mxGeometry x="172.5" y="240" width="217.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-8" value="PPO RL Agent (state input, policy decision)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="196.25" y="320" width="262.5" height="40" as="geometry" />
