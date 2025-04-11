@@ -25,6 +25,12 @@
         <mxCell id="jIVukjhN0ORAaDZMaz9k-8" value="PPO RL Agent&lt;div&gt;(state input, policy decision)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167.5" y="340" width="222.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jIVukjhN0ORAaDZMaz9k-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
