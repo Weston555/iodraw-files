@@ -19,7 +19,7 @@
         <mxCell id="jIVukjhN0ORAaDZMaz9k-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jIVukjhN0ORAaDZMaz9k-4" target="jIVukjhN0ORAaDZMaz9k-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="Trading Signal Generation (generate buy/sell signal)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="Trading Signal Generation&lt;div&gt;(generate buy/sell signal)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="172.5" y="240" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-8" value="PPO RL Agent (state input, policy decision)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
