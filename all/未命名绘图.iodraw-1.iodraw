@@ -19,6 +19,11 @@
         <mxCell id="jIVukjhN0ORAaDZMaz9k-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jIVukjhN0ORAaDZMaz9k-4" target="jIVukjhN0ORAaDZMaz9k-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jIVukjhN0ORAaDZMaz9k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jIVukjhN0ORAaDZMaz9k-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-4" value="Trading Signal Generation&lt;div&gt;(generate buy/sell signal)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167.5" y="240" width="222.5" height="50" as="geometry" />
         </mxCell>
@@ -27,12 +32,6 @@
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-13" value="Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jIVukjhN0ORAaDZMaz9k-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jIVukjhN0ORAaDZMaz9k-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="300" as="sourcePoint" />
-            <mxPoint x="530" y="300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
