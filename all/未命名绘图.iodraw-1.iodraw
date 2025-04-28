@@ -38,7 +38,7 @@
           <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIVukjhN0ORAaDZMaz9k-21" value="(training phase: reward feedback to PPO for update)" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="450" width="290" height="30" as="geometry" />
+          <mxGeometry x="160" y="450" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
